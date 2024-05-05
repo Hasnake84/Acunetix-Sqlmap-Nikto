@@ -17,6 +17,11 @@ In this project i have learned how to deploy these web application testing tools
 
 <b>Sqlmap:</b> To delve deeper into SQL injection vulnerabilities, sqlmap will be employed. This potent tool allows for crafting and injecting intricate SQL queries by hand. sqlmap will then attempt to extract sensitive information, escalate privileges, and potentially gain unauthorized access to the underlying database, providing a thorough analysis of SQL injection risks.
 
+<a href="https://imgur.com/vfVX0MI"><img src="https://i.imgur.com///vfVX0MI.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/YoBwtAx"><img src="https://i.imgur.com///YoBwtAx.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/u793QZW"><img src="https://i.imgur.com///u793QZW.png" title="source: imgur.com" /></a>
+
 <b>Nikto:</b> This web server scanner will be used to meticulously scrutinize the web server's configuration and installed components for vulnerabilities. Nikto will be on the lookout for outdated software versions, misconfigured files, and potentially exploitable scripts, uncovering weaknesses beyond SQL injection and directory traversal.
 
 By strategically integrating these tools and techniques, this project will provide a holistic assessment of a web application's security posture. It will expose a wider range of vulnerabilities, going beyond the initial focus of SQL injection and directory traversal.  This comprehensive analysis will be instrumental in fortifying the application's defenses and mitigating the risk of various cyberattacks.
